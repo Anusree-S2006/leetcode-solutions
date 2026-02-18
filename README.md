@@ -35,11 +35,14 @@ All solutions are written in Java with clean and readable code.
 - Palindrome Number
 - Reverse Integer
 - Plus One
+  
 📊 Goals
+
 - ✅ Strengthen DSA concepts  
 - ✅ Improve coding speed  
 - ✅ Prepare for technical interviews  
-- ✅ Maintain consistent coding practice  
+- ✅ Maintain consistent coding practice
+- 
  🔗 My LeetCode Profile
 
 https://leetcode.com/u/Anusree_S_/
