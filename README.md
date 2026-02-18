@@ -16,16 +16,22 @@ I am solving problems regularly to improve my:
 
 All solutions are written in Java with clean and readable code.
 🧠 Problems Solved
+ 
  🔹 Arrays
+ 
 - Two Sum
 - Move Zeroes
 - Merge Sorted Array
 - Intersection of Two Arrays
 - Largest Integer
+
 🔹 Strings
+
 - Reverse String
 - First Unique Character in a String
+
 🔹 Math
+
 - Palindrome Number
 - Reverse Integer
 - Plus One
